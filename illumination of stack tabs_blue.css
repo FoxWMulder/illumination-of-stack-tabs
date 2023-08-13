@@ -1,0 +1,19 @@
+.tab-position.is-substack {
+    box-shadow: 0px -2px #545983; /*добавляем полосу сверху*/
+}
+
+.tabs-at-edge #tabs-tabbar-container.top {
+    padding-top: 5px;
+}
+
+.is-substack .favicon {
+    display: none; /*убираем иконку*/
+}
+
+.is-substack span.title {
+    font-weight: 500; /*делаем название группы жирным шрифтом*/
+}
+
+.maximized #tabs-tabbar-container {
+	margin-top: 5px;
+}
